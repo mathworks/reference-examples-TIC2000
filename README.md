@@ -19,6 +19,8 @@ Requires MATLAB® release R2020b or newer, Simulink and Embedded Coder.
 
 ## Community Support
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
+## MATLAB File Exchange
+[![View Reference Application Examples for TI C2000 on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/92788-reference-application-examples-for-ti-c2000)
 
 Copyright 2021 The MathWorks, Inc.
 
