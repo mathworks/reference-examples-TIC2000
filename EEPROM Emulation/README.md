@@ -9,6 +9,8 @@ Open the model 'f2837x_eeprom_emulation.slx' to get started.
 
 Refer to the design document 'Simulink_EEPROM_Emulation_f2837x.pdf' for more details.
 
+Refer demo video: https://www.youtube.com/watch?v=fWZoXDdff3Q
+
 <!--- If your project includes a visualation or any images or an App please include a screenshot in this README --->
 
 ## **EEPROM Emulation Model**
