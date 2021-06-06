@@ -10,7 +10,7 @@ Open the model 'F2837x_CPU1_bissc.slx' and 'F2837x_CPU2_bissc.slx'  to get start
 
 Refer to the design document 'Simulink_BiSS_Encoder_Interface_F2837x.pdf' for more details.
 
-Refer demo video: https://www.youtube.com/watch?v=FxRkGY6WPRM&t=21s
+Refer to the demo video: https://www.youtube.com/watch?v=FxRkGY6WPRM&t=21s
 
 <!--- If your project includes a visualation or any images or an App please include a screenshot in this README --->
 
