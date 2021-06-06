@@ -15,6 +15,8 @@ Open the model files 'CAN_MultiID_Transmit_Receive_F2837xD.slx' or 'CAN_MultiID_
 
 Refer to the design document 'CAN_Mailbox_Multiple_ID_Support.pdf' for more details.
 
+Refer demo video: https://www.youtube.com/watch?v=-bf1tFDmiUQ&t=85s
+
 <!--- If your project includes a visualation or any images or an App please include a screenshot in this README --->
 
 ## **CAN Multi-ID Transmit/Receive Support Model**
