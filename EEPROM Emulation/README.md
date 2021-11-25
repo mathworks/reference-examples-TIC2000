@@ -5,7 +5,7 @@
 <!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 This example shows how to store data to Flash from Simulink. The demo model 'f2837x_eeprom_emulation.slx' will demonstrate a basic framework for achieving EERPOM Emulation over Flash. The model will showcase how one can define calibration parameters that will be loaded to Flash sector reserved for EEPROM emulation (achieved through a separate load and run addresses for these parameters, and a copy is performed to move from the Flash to the RAM at runtime such that modifying them is possible). The calibration values as updated in RAM are then copied back to Flash for reuse even after power cycle using the TI Flash API routines.
   
-New updates to ensure Flash sector for calibration is erased only after 'm' Banks each having 'n' Pages are updated with the calibration data. 'm' and 'n' can be defined to any length of the Flash sector. Each page holds one copy of calibration data.
+New updates to ensure Flash sector for calibration is erased only after 'm' Banks each having 'n' Pages are updated with the calibration data. 'm' and 'n' can be defined to any length of the Flash sector. The page holds the last updated calibration data.
 
 Open the model 'f2837x_eeprom_emulation.slx' to get started.
 
