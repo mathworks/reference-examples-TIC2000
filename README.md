@@ -10,8 +10,9 @@ This repository will host Simulink reference application examples using  Embedde
 2. CAN Multiple ID Transmit Receive Support using Embedded Coder TI C2000 Support Package for F28379D Launchpad and F280049C Launchpad.
 
 3. FLASH EEPROM Emulation from Simulink using Embedded Coder TI C2000 Support Package for F28379D Launchpad.
-   3.a New updates to ensure Flash sector for calibration is erased only when 'm' Banks each having 'n' Pages are updated with the calibration data.
-       'm' and 'n' can be defined to the full length of the Flash sector used for the calibration. Each page holds one copy of all calibration data.
+		
+	3.a New updates to ensure Flash sector for calibration is erased only when 'm' Banks each having 'n' Pages are updated with the calibration data.
+       'm' and 'n' can be defined to any length of the Flash sector. Each page holds one copy of calibration data.
 
 <!--- If your project includes a visualation or any images or an App please include a screenshot in this README --->
 
