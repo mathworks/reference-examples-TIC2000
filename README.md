@@ -11,7 +11,7 @@ This repository will host Simulink reference application examples using  Embedde
 
 3. FLASH EEPROM Emulation from Simulink using Embedded Coder TI C2000 Support Package for F28379D Launchpad.
 		
-	3.a New updates to ensure Flash sector for calibration is erased only when 'm' Banks each having 'n' Pages are updated with the calibration data.
+	3.a New updates to ensure Flash sector for calibration is erased only after 'm' Banks each having 'n' Pages are updated with the calibration data.
        'm' and 'n' can be defined to any length of the Flash sector. Each page holds one copy of calibration data.
 
 <!--- If your project includes a visualation or any images or an App please include a screenshot in this README --->
