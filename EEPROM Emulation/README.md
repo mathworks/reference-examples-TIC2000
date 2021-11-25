@@ -14,7 +14,7 @@ Refer to the demo video: https://www.youtube.com/watch?v=fWZoXDdff3Q
 <!--- If your project includes a visualation or any images or an App please include a screenshot in this README --->
 
 ## **EEPROM Emulation Model**
-![](overview/EEPROM_Emulation.JPG) 
+![](overview/F2837x_eeprom_emulation.JPG) 
 
 ### MathWorks Products (http://www.mathworks.com)
 
