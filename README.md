@@ -16,7 +16,7 @@ This repository will host Simulink reference application examples using  Embedde
 
 <!--- If your project includes a visualation or any images or an App please include a screenshot in this README --->
 
-### MathWorks Products (http://www.mathworks.com)
+### MathWorks Products (https://www.mathworks.com)
 
 Requires MATLAB® release R2020b or newer, Simulink and Embedded Coder.
 
